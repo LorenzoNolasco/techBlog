@@ -128,8 +128,8 @@ You are required to submit BOTH of the following for review:
 
 - The URL of the GitHub repository, with a unique name and a readme describing the project.
 
-## Link to Website
+## Link to Website: https://techblog-3zmw.onrender.com
 
----
+## Video Example: https://drive.google.com/file/d/1tyhVNVnkhelAgww4YWFgjceXLNrf_RO-/view?usp=sharing
 
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.# techBlog
